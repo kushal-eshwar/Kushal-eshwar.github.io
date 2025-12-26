@@ -363,7 +363,7 @@ h3{ margin:0 0 8px; }
   height: 100%;
   object-fit: cover;
   border-radius: 50%;
-  filter: grayscale(100%) contrast(1.05);
+  /* filter: grayscale(100%) contrast(1.05); */
 }
 .profile-pic img {
   transition: filter 0.3s ease, transform 0.3s ease;
